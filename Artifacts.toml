@@ -1,69 +1,77 @@
 [[GAP_pkg_anupq]]
 arch = "aarch64"
-git-tree-sha1 = "b7e80dca7855b811ad8c8bf5c2a7d242faf4e5e6"
+git-tree-sha1 = "f222aaded22304c47dc1fe7ef7d2e5d6da1eb95f"
 os = "macos"
 
     [[GAP_pkg_anupq.download]]
-    sha256 = "5505cd5797c8433c373cdecdab135b6b6e7ba2beb4a90dbabb0a4927165d341e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "9a152b6f95972bc42226439e2b8f9d34f5fd5196e081cfc0e5b1efa1aba4de19"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_anupq]]
 arch = "aarch64"
-git-tree-sha1 = "e391399ff79c8d80e8f036a945035f713985a68a"
+git-tree-sha1 = "b6fed955968f11726dc2e659a9c3a2bc2ca9f861"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_anupq.download]]
-    sha256 = "8e75616eeb9807125523c73e1f54252eb80b32f2686e4c5f492f1cb4f866f1aa"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "58943d1b88edfe17461e4e07a267c79402e017cffe81b498a9f1fe6cfa4d4541"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_anupq]]
 arch = "aarch64"
-git-tree-sha1 = "85065da51accc45a6c64947200a032287b471b58"
+git-tree-sha1 = "350d20688dfeeb94847381a14b46174c0b69b7e9"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_anupq.download]]
-    sha256 = "fc4cabfec78aa6856a1f3f5ffb7403d6d7aaa45fc181346c70069d3dcdf7b10a"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.aarch64-linux-musl.tar.gz"
+    sha256 = "ca39a474f346becfe56a2d999b1a44519c651da1d880cd36e5a4aebe2ba52c2f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_anupq]]
-arch = "powerpc64le"
-git-tree-sha1 = "b04266340fe3f17e9ee06f3b7cf143992433a8d1"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_anupq.download]]
-    sha256 = "d02f32fa22af155f05bd28917a20ee82b930f01ce7cff285a26917857524553b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.powerpc64le-linux-gnu.tar.gz"
-[[GAP_pkg_anupq]]
-arch = "x86_64"
-git-tree-sha1 = "8301b3af6f794a7d64f07e05b2483cf0a7636f71"
-os = "macos"
-
-    [[GAP_pkg_anupq.download]]
-    sha256 = "b87d4bed60d930bf18bc67bbad2153caa7c7cdf3627c6822cf99173ff2ed215d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.x86_64-apple-darwin.tar.gz"
-[[GAP_pkg_anupq]]
-arch = "x86_64"
-git-tree-sha1 = "60fb2a72fcdf455ddfceb3de6717a1bc2756ac50"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_anupq.download]]
-    sha256 = "6ec52d5b32f38f1ffb0eab767d01ffdf78b6f1fdb250fc9bf131e43f007104b4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.x86_64-linux-gnu.tar.gz"
-[[GAP_pkg_anupq]]
-arch = "x86_64"
-git-tree-sha1 = "8a85e0f13877f9b7225a7c5dbc9062ffd48ecc53"
-libc = "musl"
-os = "linux"
-
-    [[GAP_pkg_anupq.download]]
-    sha256 = "c3941d7d8d7d2313f2ef6d7cf6e1c980188d92057ac8053c42e8e8429728903d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.x86_64-linux-musl.tar.gz"
-[[GAP_pkg_anupq]]
-arch = "x86_64"
-git-tree-sha1 = "38f1911f4ce0f9d1eb75beb92db6598277de0b7d"
+arch = "aarch64"
+git-tree-sha1 = "55e25554ccd1693dafd0b82c80a2b1c7485ab43a"
 os = "freebsd"
 
     [[GAP_pkg_anupq.download]]
-    sha256 = "af14ede4d4046b481a6f1cf2821aaf8c7de1656049ceed9eb593c1f58b82a0a0"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.0+0/GAP_pkg_anupq.v300.300.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "fd303e731a4ba5fe7d4fa870f476fb56f7383500bcb968f1456d1b06d17b2b04"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_anupq]]
+arch = "powerpc64le"
+git-tree-sha1 = "e527e96ff9e8e94238e5f2f77db09a56b08a1636"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_anupq.download]]
+    sha256 = "13fdd002387dda33acf6fd74d0dd5bf5acae9b8ecf209ee1b196936fc371d374"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_anupq]]
+arch = "x86_64"
+git-tree-sha1 = "8463820adbc7f2f5ff4095384c36cde507a1e9b6"
+os = "macos"
+
+    [[GAP_pkg_anupq.download]]
+    sha256 = "ee5686dde8faba3e78cb1786176e673c726a4709e608ebc8cb462a076fe23931"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_anupq]]
+arch = "x86_64"
+git-tree-sha1 = "5d25d4e8491185a43e9373adf931aa2346fccd2d"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_anupq.download]]
+    sha256 = "a8b7a09ea8488b31068f2cb4c11ccbc77cce86b66bd6d5e3d947e9422fa978b0"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_anupq]]
+arch = "x86_64"
+git-tree-sha1 = "7a7cf3d28fcb869308af10cd4516b118bf708709"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_anupq.download]]
+    sha256 = "026e298aba47039656bd93cfd78af71ca3e45f771eb2fecfd54957b6384e6b5f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_anupq]]
+arch = "x86_64"
+git-tree-sha1 = "8613dfc8084a3fc8a32a456b2f09b2c962c0c744"
+os = "freebsd"
+
+    [[GAP_pkg_anupq.download]]
+    sha256 = "5723a26d739b8da161834802d9af8a581a3d01364675ff4f8e93dc4a6745cf73"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_anupq_jll.jl/releases/download/GAP_pkg_anupq-v300.300.100+0/GAP_pkg_anupq.v300.300.100.x86_64-unknown-freebsd.tar.gz"
